@@ -44,4 +44,4 @@
 
 ## Authors
 
-[Me!](https://www.github.com/deemonsecurity)
+[John Parsons, Logan Smith, Matthew Hogan and Annette Figueroa]
