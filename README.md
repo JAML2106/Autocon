@@ -19,13 +19,6 @@
 </p>
 </div>
 
-## Table of Contents
-
-- [Table of Contents](#-table-of-contents-)
-- [About](#-about)
-- [Built Using](#️-built-using-)
-- [Authors](#️-authors-)
-- [License](#-license-)
 
 ## About
 
