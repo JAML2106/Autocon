@@ -3,7 +3,7 @@
 <div align="center">
     <p align="center">
         <a href="https://github.com/JAML2106/Autocon" rel="noopener">
-            <img src="./Assets/img.png" style="width:200px"></img>
+            <img src="./Assets/img.png" style="width:500px"></img>
         </a>
     </p>
 
@@ -27,7 +27,7 @@
 ## Built Using
 
 -Bash
--TSHARK
+-Tshark
 -Nmap
 
 ## Authors
