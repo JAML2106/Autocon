@@ -32,7 +32,7 @@
 
 ## Authors
 
-[John Parsons, Logan Smith, Matthew Hogan and Annette Figueroa]
+John Parsons, Logan Smith, Matthew Hogan and Annette Figueroa
 
 ## License
 
